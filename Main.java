@@ -21,7 +21,7 @@ public class Main {
 
         for (int i = firstNumber; i <= secondNumber; i++) {
 
-            if (i % 3 == 0 && i % 5 == 0) {
+            if (i % 3 == 0 && i % 5 == 0) { // this same that i % 15 == 0
                 System.out.println("FizzBuzz");
             } else if (i % 3 == 0) {
                 System.out.println("Fizz");
