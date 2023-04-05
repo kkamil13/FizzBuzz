@@ -6,7 +6,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         System.out.print("\n" + "Hello in FizzBuzz game." + "\n" +
                 "This program check numbers that divide by 3,5,15 beetwen Your first and second number." + "\n" +
-                "Numbers must be integer." + "\n" + "\n"  );
+                "Numbers must be integer." + "\n\n"  );
 
 
 
